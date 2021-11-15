@@ -1,6 +1,5 @@
 # pcu - cpastone design ROOMS
-SwiftUI Bootstrap Project to Start Your Next App Quickly
-pcu -캡스톤디자인  rooms 앱  제작 
+pcu -캡스톤디자인  ROOMS 앱  제작 
 ROOMS 라는 저희가 만든 어플은 위도 코로나 이후에 대전시에 글램핑 또는 카라반 및  캠핑을 위한 정보 제공  블로그 앱입니다
 
 
