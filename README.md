@@ -35,6 +35,11 @@ UI,UX :  윤성준, 곽동엽
 사용한 db    
 - 파이어베이스 프레임 워크   
 
+사용한 웹프로그램   
+- wix   
+
+웹 사이트   
+- https://nmnmnmnmnm2.wixsite.com/my-site-7   
 
 ## 2. 기획의도
 
