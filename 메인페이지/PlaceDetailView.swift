@@ -28,7 +28,7 @@ struct PlaceDetailView : View {
                     .scaledToFit()
                     .frame(width: g.size.width, height: g.size.height)
                     .aspectRatio(contentMode: .fit)
-                    .opacity(0.9)
+                    .opacity(0.8)
                     .background(Color.black)
                     .onDisappear {
                         self.isShowing = false
@@ -37,7 +37,7 @@ struct PlaceDetailView : View {
                 VStack(alignment: .leading) {
                     Text(self.placeItem?.activityPlace ?? "")
                         .foregroundColor(Color.white)
-                        .font(.system(size: 30, weight: .bold, design: .default))
+                        .font(.system(size: 25, weight: .bold, design: .default))
                         .padding(.top, 34)
                         .padding(.leading, 30)
                     HStack{
@@ -80,7 +80,7 @@ struct PlacesCircleView: View {
                 ZStack {
                     Image(self.placeItems.pointImage).renderingMode(.original)
                         .resizable()
-                        .frame(width: 70, height: 70)
+                        .frame(width: 90, height: 70)
                         .background(Color.red)
                         .clipShape(Circle())
                     

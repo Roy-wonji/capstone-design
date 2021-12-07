@@ -45,6 +45,7 @@ struct ActivitiesData {
     var activityResources: [ActivityResource]
     
     
+    
 }
 
 struct ActivitiesFamousPoints {
@@ -52,6 +53,7 @@ struct ActivitiesFamousPoints {
     var pointName: String
     var pointImage: String
     var pointDescription: String
+    
 }
 
 class Activities: ObservableObject {
@@ -94,11 +96,11 @@ struct ActivitiesContentView: View {
                             HStack (spacing: 10){
                                 ForEach(self.activtiesData.activities, id: \.id) { item in
                                     ShopPromotionBannerView(activtiesItems: item, selectedActivity: self.selectedActivity)
-                                            .frame(width: 120, height: 60)
+                                            .frame(width: 145, height: 60)
                                 }
-                            }.padding(.leading, 30)
-                            .padding(.trailing, 30)
-                            .padding(.bottom, 10)
+                            }.padding(.leading, 70)
+                            .padding(.trailing, 70)
+                            .padding(.bottom, 30)
                         }
                         .padding(.top, 20)
                         
@@ -153,6 +155,7 @@ struct ShopBestSellerViews: View {
     
     var body: some View {
             ZStack{
+               
                 Image("\(activityPlaces.activityPlaceImage)").renderingMode(.original)
                         .resizable()
                         .frame(width: 155, height: 225)
@@ -166,7 +169,7 @@ struct ShopBestSellerViews: View {
                     
                     Text(activityPlaces.activityPlace)
                         .foregroundColor(Color.white)
-                        .font(.system(size: 20, weight: .bold, design: Font.Design.default))
+                        .font(.system(size: 15, weight: .bold, design: Font.Design.default))
                         .padding(.bottom, 24)
                 }
                     
