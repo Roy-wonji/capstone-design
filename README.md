@@ -3,12 +3,12 @@
 # 🐚ROOMS🐚
 
 대놓고 하는 글램핑 홍보!  
-모바일 브이로그 홈쇼핑 플랫폼    
-and  글램핑 정보 보여주는 페이지   
-위드 코로나 이후 대전시 글램핑 정보를 제공해주는 어플 제
+모바일 브이로그 홈쇼핑 플랫폼  and  글램핑 정보 보여주는 페이지   
+위드 코로나 이후 대전시 글램핑 정보를 제공해주는 어플 제직
 
-<img width="957" alt="스크린샷 2020-10-25 오후 8 19 38" src="https://user-images.githubusercontent.com/13061461/97105640-cf943400-16ff-11eb-9723-e1e703de3c42.png">
-  
+<img width="957" alt="스크린샷 2021-12-10 새벽 1 03 38" src="https://user-images.githubusercontent.com/75601594/145604282-7c1b213b-b226-424f-84ce-08b75127861e.jpg">
+
+
 1. 개발진   
 2. 기획의도      
 3. 기능       
@@ -47,13 +47,15 @@ and  글램핑 정보 보여주는 페이지
 
 ## 2.기획의도 
 
-<img width="955" alt="스크린샷 2020-10-25 오후 8 20 16" src="https://user-images.githubusercontent.com/13061461/97105642-d15df780-16ff-11eb-89cb-d3b61baf37d1.png">
-<img width="959" alt="스크린샷 2020-10-25 오후 8 20 06" src="https://user-images.githubusercontent.com/13061461/97105644-d28f2480-16ff-11eb-9624-31da8c0c174d.png"> 
+
+
+<img width="955" alt="스크린샷 2021-12-10 새벽 1 03 38" src="https://user-images.githubusercontent.com/75601594/145604637-af414f84-5368-4b15-a228-94dcf1298d4e.jpg">
+<img width="959" alt="스크린샷 2021-12-10 새벽 1 03 38" src="https://user-images.githubusercontent.com/75601594/145604693-b6eaa554-98a8-47fb-97c3-97ff9ce1aff4.jpg"> 
 
 ## 3.기능
 
 ### 앱 아이콘
-<img width="300" alt="스크린샷 2020-10-25 오후 8 18 06" src="https://user-images.githubusercontent.com/13061461/97105662-0c602b00-1700-11eb-8bd9-36dea975e10c.png">
+<img width="300" alt="스크린샷 2021-12-10 새벽 1 03 38" src="https://user-images.githubusercontent.com/75601594/145605085-b1fedb17-6a27-46e9-abe0-e546920138fd.jpg">
 
 
 ### 로그인
@@ -61,10 +63,10 @@ and  글램핑 정보 보여주는 페이지
 
 ### 홈 
 
-- 카테고리별 브이로그 영상 목록 확인
-- 영상에 나오는 물건을 바로 장바구니에서 확인할 수 있음
-- 원하는 물건 검색
-- 채널을 구독하거나 댓글을 달 수 있음  
+- 카테고리별 카라반 및  글램핑 정보제공
+- 브이로그에 나오는 글램핑장 및 카라반 정보 확인 가능 
+- 축제 정보및  놀거리 정보 제공
+-  주변  축제 에 대한 정보및 리스트 제공 
 
 ![ezgif-7-00a8253b4f45](https://user-images.githubusercontent.com/13061461/97105705-547f4d80-1700-11eb-8fba-373d9cf5bfdf.gif)
 
