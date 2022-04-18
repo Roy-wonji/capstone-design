@@ -68,14 +68,16 @@
 - 축제 정보및  놀거리 정보 제공
 -  주변  축제 에 대한 정보및 리스트 제공 
 
-![ezgif-7-00a8253b4f45](https://user-images.githubusercontent.com/13061461/97105705-547f4d80-1700-11eb-8fba-373d9cf5bfdf.gif)
+![화면 기록 2022-04-18 오후 8 19 44](https://user-images.githubusercontent.com/75601594/163801571-77ce2c80-cebb-4db5-9dfd-343fac7f032c.gif)
+
 
 ### 글램핑 페이지
 
 - 판매자가 올린 물건과 요구사항을 확인하고 선택할 수 있음
 - 내가 찍은 브이로그 영상을 업로드할 수 있음  
 
-![ezgif-7-94aca7ee4574](https://user-images.githubusercontent.com/13061461/97105712-5c3ef200-1700-11eb-8c74-f01f15143ceb.gif)
+![화면 기록 2022-04-18 오후 8 19 44](https://user-images.githubusercontent.com/75601594/163801548-f6edaad9-6b51-4bc8-bdcd-71b1fdebbc2c.gif)
+
 
 ### 쇼핑몰페이지
 
@@ -83,11 +85,11 @@
 - 구매 목록
 - 쇼호스트일 경우 수익률 통계와 내 동영상 목록
   
-![ezgif-7-cb98a62ae7d2](https://user-images.githubusercontent.com/13061461/97105713-5f39e280-1700-11eb-8bbf-0d9983adc586.gif)   
-
-
+ ![화면 기록 2022-04-18 오후 8 20 46](https://user-images.githubusercontent.com/75601594/163801517-890c1331-84ed-498d-9bb1-5a3c1db05266.gif)
 
 ### 마이페이지    
 - 장바구니
 - 구매 목록
 - 쇼호스트일 경우 수익률 통계와 내 동영상 목록
+
+![화면 기록 2022-04-18 오후 8 20 46](https://user-images.githubusercontent.com/75601594/163801517-890c1331-84ed-498d-9bb1-5a3c1db05266.gif)
